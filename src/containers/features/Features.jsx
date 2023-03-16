@@ -8,15 +8,15 @@ const featuresData = [
     text: 'Sed viverra tellus in hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue eget.'
   },
   {
-    title: 'Become the tended active',
+    title: 'Ullamcorper malesuada proin libero',
     text: 'Sed viverra tellus in hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue eget.'
   },
   {
-    title: 'Message or am nothing',
+    title: 'Ut pharetra sit amet',
     text: 'Sed viverra tellus in hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue eget.'
   },
   {
-    title: 'Really boy law county',
+    title: 'Quisque egestas diam in',
     text: 'Sed viverra tellus in hac habitasse platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue eget.'
   }
 ]
