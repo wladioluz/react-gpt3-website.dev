@@ -14,27 +14,26 @@ const Footer = () => {
       <div className='gpt3__footer-links'>
         <div className='gpt3__footer-links__logo'>
           <img src={gpt3logo} alt="logo" />
-          <p>© 2023 GPT-3. All rights reserved.</p>
         </div>
         <div className='gpt3__footer-links__div'>
           <h4>Links</h4>
-          <p>Contact</p>
-          <p>Contact</p>
-          <p>Contact</p>
-          <p>Contact</p>
+          <p>About Us</p>
+          <p>Contact Us</p>
+          <p>Careers</p>
+          <p>Blog</p>
         </div>
         <div className='gpt3__footer-links__div'>
           <h4>Company</h4>
-          <p>Contact</p>
-          <p>Contact</p>
-          <p>Contact</p>
+          <p>Our Mission</p>
+          <p>Our Board</p>
+          <p>Our Locations</p>
         </div>
         <div className='gpt3__footer-links__div'>
           <h4>Get in touch</h4>
-          <p>Contact</p>
-          <p>Contact</p>
-          <p>Contact</p>
-          <p>Contact</p>
+          <p>Live Chat</p>
+          <p>Twitter</p>
+          <p>Discord</p>
+          <p>Sales</p>
         </div>
       </div>
       <div className='gpt3__footer-copyright'>
